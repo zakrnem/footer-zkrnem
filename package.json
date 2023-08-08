@@ -1,6 +1,6 @@
 {
   "name": "footer-zkrnem",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Standard footer for zkrnem projects",
   "main": "index.js",
   "scripts": {
